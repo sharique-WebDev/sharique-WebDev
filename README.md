@@ -89,7 +89,7 @@ Built responsive web apps using HTML, CSS, Bootstrap, and React.js. Created REST
 - **Email:** [mdshariqulhaque6@gmail.com](mailto:mdshariqulhaque6@gmail.com)
 - **Location:** Biharsharif, Bihar
 - **GitHub:** [sharique-WebDev](https://github.com/sharique-WebDev)
-- **LinkedIn:** [your-linkedin-link](https://www.linkedin.com/in/md-sharique-173941265/)
-- **Portfolio:** [your-portfolio-link](https://personal-portfolio-md-shariqul-haques-projects.vercel.app/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/md-sharique-173941265/)
+- **Portfolio:** [Portfolio](https://personal-portfolio-md-shariqul-haques-projects.vercel.app/)
 
 ---
